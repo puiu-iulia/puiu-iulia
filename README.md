@@ -1,4 +1,6 @@
-### Hi there 👋
+### Welcome to my GitHub profile 👋
+
+I am Iulia, a self-taught React Native developer.
 
 <!--
 **puiu-iulia/puiu-iulia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
